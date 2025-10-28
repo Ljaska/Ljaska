@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrejs (Ljaska)
 
-<!--
-**Ljaska/Ljaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💚 Founder of **[DTM Studio](https://dtm-studio.org)** — Diamond Turning Software for Optical Manufacturing.  
+Focused on SPDT automation, G-code generation, and precision optics manufacturing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 About Me
+I'm a precision optics specialist and software developer with over 8 years of hands-on experience in ultra-precision diamond turning.  
+My background is rooted in **Single Point Diamond Turning (SPDT)** of infrared optics — working with materials like Ge, Si, ZnSe, CaF₂, and polymers — and mastering sub-micron tolerances on **Precitech** and **Nanotech** machines.
+
+Over the years, I saw how complex and fragmented optical manufacturing workflows can be.  
+That insight led me to build **DTM Studio**, a dedicated software platform that automates G-code generation, applies real tool-radius compensation, integrates metrology data for surface correction, and simplifies the entire SPDT process from start to finish.
+
+---
+
+### ⚙️ Tech Focus
+- Optical surface and asphere design  
+- Multi-segment geometry generation  
+- G-code path optimization for Precitech & Nanotech  
+- Tool radius compensation and surface correction  
+- Data visualization & automation tools (VB6-based)
+
+---
+
+### 🔗 Connect
+🌐 [Website](https://dtm-studio.org)  
+💼 [LinkedIn](https://linkedin.com/in/andrejs-dtm)  
+🏢 [DTM Studio Page](https://linkedin.com/company/dtmstudio-official)  
+📍 Riga, Latvia  
+
+---
+
+> “Precision made simple.” — DTM Studio
