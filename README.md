@@ -3,7 +3,7 @@
 <!-- ───────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://dtm-studio.org/assets/dtmlogo.png" width="100" alt="DTM Studio Logo">
+  <img src="https://dtm-studio.org/assets/dtmlogo.png" width="200" alt="DTM Studio Logo">
 </p>
 
 <h1 align="center">Hi, I'm Andrejs (Ljaska)</h1>
