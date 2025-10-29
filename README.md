@@ -30,7 +30,6 @@ That insight led me to build **DTM Studio**, a dedicated software platform that 
 📍 Riga, Latvia  
 
 ---
----
 
 ### 📊 GitHub Stats
 ![Andrejs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ljaska&show_icons=true&theme=github_dark&hide_border=true)
