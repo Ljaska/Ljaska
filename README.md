@@ -3,7 +3,7 @@
 <!-- ───────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://dtm-studio.org/assets/logo512.png" width="200" alt="DTM Studio Logo">
+  <img src="https://dtm-studio.org/assets/dtmlogo.png" width="200" alt="DTM Studio Logo">
 </p>
 
 <h1 align="center">Hi, I'm Andrejs</h1>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://dtm-studio.org">
-    <img src="https://img.shields.io/badge/DTM_Studio-VB6%2C%20SPDT%2C%20Optics-21b559?style=for-the-badge" alt="DTM Studio Badge">
+    <img src="https://img.shields.io/badge/DTM_Studio-%2C%20SPDT%2C%20Optics-21b559?style=for-the-badge" alt="DTM Studio Badge">
   </a>
   <a href="https://dtm-studio.org">
     <img src="https://img.shields.io/badge/Website-dtm--studio.org-blue?style=for-the-badge" alt="Website Badge">
