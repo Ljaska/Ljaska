@@ -3,20 +3,26 @@
 <!-- ───────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://dtm-studio.org/assets/dtmlogo.png" width="200" alt="DTM Studio Logo">
+  <img src="https://dtm-studio.org/assets/logo512.png" width="200" alt="DTM Studio Logo">
 </p>
 
-<h1 align="center">Hi, I'm Andrejs (Ljaska)</h1>
+<h1 align="center">Hi, I'm Andrejs</h1>
 <p align="center">
   Founder of <b>DTM Studio</b> — Diamond Turning Software for Optical Manufacturing.  
   Focused on SPDT automation, G-code generation, and precision optics manufacturing.
 </p>
 
 <p align="center">
-  <a href="https://dtm-studio.org"><img src="https://img.shields.io/badge/DTM_Studio-VB6%2C%20SPDT%2C%20Optics-21b559?style=for-the-badge"></a>
-  <a href="https://dtm-studio.org"><img src="https://img.shields.io/badge/Website-dtm--studio.org-blue?style=flat"></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Ljaska" alt="visitors">
+  <a href="https://dtm-studio.org">
+    <img src="https://img.shields.io/badge/DTM_Studio-VB6%2C%20SPDT%2C%20Optics-21b559?style=for-the-badge" alt="DTM Studio Badge">
+  </a>
+  <a href="https://dtm-studio.org">
+    <img src="https://img.shields.io/badge/Website-dtm--studio.org-blue?style=for-the-badge" alt="Website Badge">
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ljaska" alt="Visitors Badge" style="height:28px;">
 </p>
+
+<hr>
 
 ---
 
