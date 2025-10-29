@@ -18,7 +18,7 @@
   <a href="https://dtm-studio.org">
     <img src="https://img.shields.io/badge/Website-dtm--studio.org-blue?style=for-the-badge" alt="Website Badge">
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ljaska&color=21b559&left_text=visitors" alt="Visitors Badge">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ljaska" alt="Visitors Badge" style="height:28px;">
 </p>
 
 <hr>
