@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://dtm-studio.org">
-    <img src="https://img.shields.io/badge/DTM_Studio-%2C%20SPDT%2C%20Optics-21b559?style=for-the-badge" alt="DTM Studio Badge">
+    <img src="https://img.shields.io/badge/DTM_Studio-SPDT•Optics-21b559?style=for-the-badge" alt="DTM Studio Badge">
   </a>
   <a href="https://dtm-studio.org">
     <img src="https://img.shields.io/badge/Website-dtm--studio.org-blue?style=for-the-badge" alt="Website Badge">
