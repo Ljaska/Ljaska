@@ -20,10 +20,7 @@
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ljaska" alt="Visitors Badge" style="height:28px;">
 </p>
-
-<hr>
-
----
+<hr style="border: 0; height: 1px; background: #21b559; opacity: 0.5;">
 
 ### 🧭 About Me
 I’m a precision optics specialist and software developer with over 8 years of hands-on experience in ultra-precision diamond turning.  
