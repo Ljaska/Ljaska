@@ -24,7 +24,9 @@ That insight led me to build **DTM Studio**, a dedicated software platform that 
 ---
 
 ### 🔗 Connect
-🌐 [Website](https://dtm-studio.org)  
+![DTM Studio](https://img.shields.io/badge/DTM_Studio-VB6%2C%20SPDT%2C%20Optics-green?style=for-the-badge)
+![Website](https://img.shields.io/badge/Website-dtm--studio.org-blue?style=flat)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ljaska)
 💼 [LinkedIn](https://linkedin.com/in/andrejs-dtm)  
 🏢 [DTM Studio Page](https://linkedin.com/company/dtmstudio-official)  
 📍 Riga, Latvia  
