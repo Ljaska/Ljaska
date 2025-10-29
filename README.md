@@ -6,7 +6,6 @@
   <img src="https://dtm-studio.org/assets/dtmlogo.png" width="200" alt="DTM Studio Logo">
 </p>
 
-<h1 align="center">Hi, I'm Andrejs</h1>
 <p align="center">
   Founder of <b>DTM Studio</b> — Diamond Turning Software for Optical Manufacturing.  
   Focused on SPDT automation, G-code generation, and precision optics manufacturing.
