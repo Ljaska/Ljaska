@@ -1,13 +1,28 @@
-# 👋 Hi, I'm Andrejs (Ljaska)
+<!-- ───────────────────────────────────────────── -->
+<!--   🌐  DTM Studio — Precision made simple.     -->
+<!-- ───────────────────────────────────────────── -->
 
-💚 Founder of **[DTM Studio](https://dtm-studio.org)** — Diamond Turning Software for Optical Manufacturing.  
-Focused on SPDT automation, G-code generation, and precision optics manufacturing.
+<p align="center">
+  <img src="https://dtm-studio.org/assets/logo512.png" width="100" alt="DTM Studio Logo">
+</p>
+
+<h1 align="center">Hi, I'm Andrejs (Ljaska)</h1>
+<p align="center">
+  Founder of <b>DTM Studio</b> — Diamond Turning Software for Optical Manufacturing.  
+  Focused on SPDT automation, G-code generation, and precision optics manufacturing.
+</p>
+
+<p align="center">
+  <a href="https://dtm-studio.org"><img src="https://img.shields.io/badge/DTM_Studio-VB6%2C%20SPDT%2C%20Optics-21b559?style=for-the-badge"></a>
+  <a href="https://dtm-studio.org"><img src="https://img.shields.io/badge/Website-dtm--studio.org-blue?style=flat"></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Ljaska" alt="visitors">
+</p>
 
 ---
 
-### 🧩 About Me
-I'm a precision optics specialist and software developer with over 8 years of hands-on experience in ultra-precision diamond turning.  
-My background is rooted in **Single Point Diamond Turning (SPDT)** of infrared optics — working with materials like Ge, Si, ZnSe, CaF₂, and polymers — and mastering sub-micron tolerances on **Precitech** and **Nanotech** machines.
+### 🧭 About Me
+I’m a precision optics specialist and software developer with over 8 years of hands-on experience in ultra-precision diamond turning.  
+My background is rooted in Single Point Diamond Turning (SPDT) of infrared optics — working with materials like Ge, Si, ZnSe, CaF₂, and polymers — mastering sub-micron tolerances on Precitech and Nanotech machines.
 
 Over the years, I saw how complex and fragmented optical manufacturing workflows can be.  
 That insight led me to build **DTM Studio**, a dedicated software platform that automates G-code generation, applies real tool-radius compensation, integrates metrology data for surface correction, and simplifies the entire SPDT process from start to finish.
@@ -24,16 +39,18 @@ That insight led me to build **DTM Studio**, a dedicated software platform that 
 ---
 
 ### 🔗 Connect
-![DTM Studio](https://img.shields.io/badge/DTM_Studio-VB6%2C%20SPDT%2C%20Optics-green?style=for-the-badge)
-![Website](https://img.shields.io/badge/Website-dtm--studio.org-blue?style=flat)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ljaska)
 💼 [LinkedIn](https://linkedin.com/in/andrejs-dtm)  
 🏢 [DTM Studio Page](https://linkedin.com/company/dtmstudio-official)  
+🌐 [Website](https://dtm-studio.org)  
 📍 Riga, Latvia  
 
 ---
 
 ### 📊 GitHub Stats
-![Andrejs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ljaska&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ljaska&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21b559&icon_color=21b559">
+</p>
 
-> *“Precision made simple.” — DTM Studio*
+---
+
+<p align="center"><i>“Precision made simple.” — DTM Studio</i></p>
