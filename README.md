@@ -50,7 +50,7 @@ That insight led me to build **DTM Studio**, a dedicated software platform that 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ljaska&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21b559&icon_color=21b559">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ljaska&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21b559&icon_color=21b559&cache_seconds=21600">
 </p>
 
 ---
