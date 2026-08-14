@@ -3,7 +3,7 @@
 <!-- ───────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="[https://dtm-studio.org/assets/dtmlogo.png](https://dtm-studio.org/assets/dtmlogo.webp)" width="200" alt="DTM Studio Logo">
+  <img src="https://dtm-studio.org/assets/dtmlogo.webp" width="200" alt="DTM Studio Logo">
 </p>
 
 <p align="center">
